@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSpringReids
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.057 s <<< FAILURE! - in TestSpringReids
+test1(TestSpringReids)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NullPointerException
+	at TestSpringReids.test1(TestSpringReids.java:15)
+

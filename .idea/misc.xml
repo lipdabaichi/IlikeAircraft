@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jt/jt-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/jt/jt-web" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-2-demo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-1-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-2-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jt/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

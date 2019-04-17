@@ -27,6 +27,7 @@
             <groupId>com.jt.1812</groupId>
             <artifactId>jt-common</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 
@@ -34,6 +35,14 @@
   	必须添加build标签  -->
     <build>
         <plugins>
+            <!--跳过测试类打包  -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jt/jt.iml" filepath="$PROJECT_DIR$/jt/jt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-common/jt-common.iml" filepath="$PROJECT_DIR$/jt/jt-common/jt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-manage/jt-manage.iml" filepath="$PROJECT_DIR$/jt/jt-manage/jt-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-web/jt-web.iml" filepath="$PROJECT_DIR$/jt/jt-web/jt-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-1-demo/springboot-1-demo.iml" filepath="$PROJECT_DIR$/springboot-1-demo/springboot-1-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-2-demo/springboot-2-demo.iml" filepath="$PROJECT_DIR$/springboot-2-demo/springboot-2-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -10,6 +10,7 @@
     <modules>
         <module>jt-common</module>
       <module>jt-manage</module>
+        <module>jt-web</module>
     </modules>
 
     <packaging>pom</packaging>
@@ -46,7 +47,7 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-test</artifactId>
-      <scope>test</scope>
+      <scope>com.jt.test</scope>
     </dependency>
 
     <!--添加属性注入依赖 -->
@@ -78,6 +79,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
+      <version>5.1.32</version>
       <scope>runtime</scope>
     </dependency>
 

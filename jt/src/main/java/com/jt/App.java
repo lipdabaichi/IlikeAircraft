@@ -1,4 +1,4 @@
-package com.jt.1812;
+package com.jt;
 
 /**
  * Hello world!

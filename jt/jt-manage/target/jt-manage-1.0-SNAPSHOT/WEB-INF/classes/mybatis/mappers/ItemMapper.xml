@@ -4,5 +4,11 @@
   "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.jt.mapper.ItemMapper">
 	<!--锻炼改错能力  -->
-	
+<!--	根据修改时间降序排列
+	注意事项:sql中注意表名/字段大小写问题
+	mysql:默认表与字段小写
+	oracle:表与字段都是大写-->
+	<select id="findItemListByPage" resultType="item">
+		select * from tb_item order by updated desc  limit #{start},#{rows}
+	</select>
 </mapper>

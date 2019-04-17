@@ -9,7 +9,8 @@
 <body>
 	<h1>实现文件长传</h1>
 	<form action="http://localhost:8091/file" method="post" 
-	enctype="multipart/form-data">
+	enctype="multipart/form-data"
+	>  <%--enctype="multipart/form-data"   开启多媒体标签--%>
 		<input name="fileImage" type="file" />
 		<input type="submit" value="提交"/>
 	</form>

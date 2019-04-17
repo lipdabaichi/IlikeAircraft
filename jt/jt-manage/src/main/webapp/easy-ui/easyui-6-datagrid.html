@@ -83,7 +83,7 @@
 		<h1>通过数据请求创建表格</h1>
 		<div>
 			定义表格，并且通过url访问json数据， fitColumns:true表示自动适应，singleSelect:true 表示选中单个
-			<table class="easyui-datagrid" style="width:500px;height:300px" data-options="url:'datagrid_data.json',fitColumns:true,singleSelect:true,pagination:true"> 
+			<table class="easyui-datagrid" style="width:500px;height:300px" data-options="url:'datagrid_data.json',method:'get',fitColumns:true,singleSelect:true,pagination:true">
 				<thead> 
 					<tr> 
 						<th data-options="field:'code',width:100">Code</th> 

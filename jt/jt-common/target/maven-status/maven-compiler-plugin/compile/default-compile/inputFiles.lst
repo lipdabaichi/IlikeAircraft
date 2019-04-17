@@ -1,2 +1,11 @@
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\anno\CaCheAnnotation.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\pojo\ItemDesc.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\pojo\ItemCat.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\pojo\SysResult.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\util\ObjectMapperUtil.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\config\RedisConfig.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\service\RedisService.java
 G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\pojo\BasePojo.java
 G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\pojo\Item.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\aop\CacheAspect.java
+G:\intelljidea\WORKSPACE\04springboot\jt\jt-common\src\main\java\com\jt\aop\HelloAspect.java
