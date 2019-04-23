@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>测试JSON跨域问题</title>	
+	<script type="text/javascript">
+		/**2.定义回调函数  等待调用*/
+		function hello(data){
+			alert(data.name);
+		}
+		
+	</script>
+	<!--1.src属性只是负责资源的加载.不负责调用-->
+	<script type="text/javascript" src="http://manage.jt.com/test.json"></script>
+	<script type="text/javascript" src="http://manage.jt.com/js/jquery-easyui-1.4.1/jquery.min.js"></script>
+</head>
+<body>
+	<h1>JS跨域问题</h1>
+</body>
+
+
+</html>

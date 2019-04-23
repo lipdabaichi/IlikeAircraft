@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-consumer/dubbo-demo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-consumer/dubbo-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-interface/dubbo-demo-interface.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-interface/dubbo-demo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider1/dubbo-demo-provider1.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider1/dubbo-demo-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider2/dubbo-demo-provider2.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-provider2/dubbo-demo-provider2.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt.iml" filepath="$PROJECT_DIR$/jt/jt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-cart/jt-cart.iml" filepath="$PROJECT_DIR$/jt/jt-cart/jt-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt-common/jt-common.iml" filepath="$PROJECT_DIR$/jt/jt-common/jt-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt-manage/jt-manage.iml" filepath="$PROJECT_DIR$/jt/jt-manage/jt-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-order/jt-order.iml" filepath="$PROJECT_DIR$/jt/jt-order/jt-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt/jt-sso/jt-sso.iml" filepath="$PROJECT_DIR$/jt/jt-sso/jt-sso.iml" />
       <module fileurl="file://$PROJECT_DIR$/jt/jt-web/jt-web.iml" filepath="$PROJECT_DIR$/jt/jt-web/jt-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-1-demo/springboot-1-demo.iml" filepath="$PROJECT_DIR$/springboot-1-demo/springboot-1-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-2-demo/springboot-2-demo.iml" filepath="$PROJECT_DIR$/springboot-2-demo/springboot-2-demo.iml" />

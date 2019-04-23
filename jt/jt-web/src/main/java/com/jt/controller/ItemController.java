@@ -20,6 +20,7 @@ public class ItemController {
     @RequestMapping("/{itemId}")
     public String findItemById(@PathVariable Long itemId, Model model) {
         //获取商品信息
+        //System.out.println("?????????????????/"+itemId);
         Item item = itemService.findItemById(itemId);
         //获取商品详情信息
         ItemDesc itemDesc = itemService.findItemDescById(itemId);
